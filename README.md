@@ -1,4 +1,4 @@
-Banking System — Phase 
+Banking System — Phase 1
 	
 	1. Create a PIN —>Database (Variable) (Non changeable)
 	2. Deposit amount
